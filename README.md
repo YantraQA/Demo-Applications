@@ -53,6 +53,13 @@ We are not liable for any sort of damages arising while the use of the applicati
 
 ---
 
+
+### HRM
+1. https://orangehrm-demo-6x.orangehrmlive.com/auth/login
+	* Credentials - [Username - admin / Password - admin123]
+
+---
+
 ### Travle
 1. https://www.cheapair.com/
 	* Credentials - Create a new account your own by sign up
