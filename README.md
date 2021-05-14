@@ -64,6 +64,7 @@ We are not liable for any sort of damages arising while the use of the applicati
 1. https://www.cheapair.com/
 	* Credentials - Create a new account your own by sign up
 2. https://phptravels.com/demo/
+3. https://www.booking.com/
 
 ---
 
