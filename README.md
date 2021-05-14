@@ -30,6 +30,8 @@ We are not liable for any sort of damages arising while the use of the applicati
 	* Note - For WebTable Handling Scenario
 10. https://www.seleniumeasy.com/test/basic-first-form-demo.html
 11. http://demo.guru99.com/test/
+12. https://applitools.com/helloworld2/
+	* Note - For Dynamic WebElement
 
 ---
 
