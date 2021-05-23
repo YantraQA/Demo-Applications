@@ -80,3 +80,4 @@ We are not liable for any sort of damages arising while the use of the applicati
 1. http://tutorialsninja.com/demo/
 2. http://automationpractice.com/index.php
 3. https://www.demoblaze.com/
+4. https://demo.nopcommerce.com/
