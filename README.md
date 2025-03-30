@@ -78,7 +78,8 @@ We are not liable for any sort of damages arising while the use of the applicati
 
 ### Ecommerce
 1. http://tutorialsninja.com/demo/
-2. http://automationpractice.com/index.php
-3. https://www.demoblaze.com/
-4. https://demo.nopcommerce.com/
-5. http://demowebshop.tricentis.com/
+2. http://www.automationpractice.pl/index.php
+3. https://automationexercise.com/
+4. https://www.demoblaze.com/
+5. https://demo.nopcommerce.com/
+6. http://demowebshop.tricentis.com/
